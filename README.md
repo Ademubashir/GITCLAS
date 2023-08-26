@@ -1,2 +1,2 @@
 # GITCLAS
-My first got class
+My first git class
